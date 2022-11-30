@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset=""UTF-8">
+        <meta name="viewport" content="width-device-width",initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>JavaScript </title>
+        </head>
+        <body>
+        </script>
+
+        salary ksh 45,000
+        var num1=NHIF Deductions= ksh 1,100
+        var num2=Net Salary=ksh 37,425.65
+        var num3=NSSF Deductions=ksh5,400
+
+
+        var sum=parseInt(num1)+parseInt(num2); NSSF Deductions= ksh 2,700
+Gross Salary= ksh 37,425.65+ksh1,100+ksh5,400
+
+"sum"
+
+var sum=
